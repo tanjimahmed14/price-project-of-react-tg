@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Silver Membership",
+      "price": 39.99,
+      "features": [
+        "Access to cardio equipment",
+        "Basic fitness classes",
+        "Locker room facilities"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gold Membership",
+      "price": 59.99,
+      "features": [
+        "Full gym access",
+        "Unlimited fitness classes",
+        "Personalized workout plans",
+        "Sauna and spa facilities"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Platinum Membership",
+      "price": 89.99,
+      "features": [
+        "Access for the entire family",
+        "Family fitness classes",
+        "Childcare services",
+        "Swimming pool access"
+      ]
+    }
+  ]
+  
